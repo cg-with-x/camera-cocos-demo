@@ -1,0 +1,17 @@
+{
+  "name": "aircraft",
+  "version": "1.0.0",
+  "description": "Hello world new project template.",
+  "main": "index.js",
+  "dependencies": {
+    "@byted-creative/camera": "0.0.11",
+    "@byted-creative/camera-cocos-layer": "0.0.11",
+    "@byted-creative/camera-face": "0.0.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "congyandong",
+  "license": "ISC"
+}
